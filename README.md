@@ -12,7 +12,7 @@ This repository provides a set of reusable **Factory.ai** custom droids that you
 
 ### `seer`
 
-A mystical systems advisor that foresees the consequences of complex engineering decisions. Call on it for architecture reviews, deep debugging, and strategic guidance where you need trade-offs, hidden risks, and follow-on work illuminated. It works read-only and focuses on analysis rather than mechanical edits.
+A mystical systems advisor that foresees the consequences of complex engineering decisions. Call on it for architecture reviews, deep debugging, and strategic guidance where you need trade-offs, hidden risks, and follow-on work illuminated. It works read-only, asks for any missing artifacts before proceeding, and hands off tasks that are better served by simpler droids.
 
 **Invocation example:**
 
