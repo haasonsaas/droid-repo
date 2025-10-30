@@ -10,14 +10,14 @@ This repository provides a set of reusable **Factory.ai** custom droids that you
 
 ## Available droids
 
-### `oracle`
+### `seer`
 
-A senior engineering advisor that plans, reviews and provides expert guidance on complex tasks.  Use it for architecture reviews, complex implementation planning, debugging across files, and answering tough technical questions.  It has read‑only access to your code and can search the web, but it will not perform simple file operations or code modifications.
+A mystical systems advisor that foresees the consequences of complex engineering decisions. Call on it for architecture reviews, deep debugging, and strategic guidance where you need trade-offs, hidden risks, and follow-on work illuminated. It works read-only and focuses on analysis rather than mechanical edits.
 
 **Invocation example:**
 
 ```text
-Run the subagent `oracle` to review our authentication system and propose improvements.
+Run the subagent `seer` to scry the auth stack and surface hidden coupling risks before we refactor.
 ```
 
 ### `code‑reviewer`
